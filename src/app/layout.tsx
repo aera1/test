@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "심플 투두 리스트",
-  description: "Next.js로 만든 심플한 투두 체크리스트",
+  title: "알잘딱",
+  description: "알아서 잘 딱 깔끔하게 정리하는 투두 & 가계부",
 };
 
 export default function RootLayout({
